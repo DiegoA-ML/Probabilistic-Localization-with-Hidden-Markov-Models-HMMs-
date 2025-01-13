@@ -2,7 +2,8 @@
 
 Description:  This project aimed to predict a robot's location in a 16x4 grid environment with noisy sensor data using Hidden Markov Models. 
 
-The approach included:
+## The approach included:
+
 	•	Techniques Used: Filtering, smoothing, and the Viterbi algorithm for probabilistic reasoning.
 	•	Tools and Libraries: Python, NumPy, Matplotlib, Seaborn, and Pandas for simulations and data visualization.
 
